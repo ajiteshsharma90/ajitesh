@@ -1,0 +1,4 @@
+locals {
+  type = list[string]
+  
+}
